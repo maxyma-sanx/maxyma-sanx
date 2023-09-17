@@ -1,8 +1,8 @@
-### Hello World 👋 It's Maksym <a href="https://www.linkedin.com/in/maksym-koralkov/">
-<img align="left" alt="Maksym Koralkov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### Hi, I'm Maksym Koralkov🙌, a Full-stack Developer from Ukraine.❤✌
 
-Hi, I'm Maksym Koralkov🙌, a Full-stack Developer from Ukraine.❤✌
+<a href="https://twitter.com/sakigo_09">
+<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 **Talking about Personal Stuff:**
 
