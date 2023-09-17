@@ -1,23 +1,15 @@
-### Hello World 👋 It's Maksym
-
-<br/>
-
-
-<a href="https://www.linkedin.com/in/maksym-koralkov/">
+### Hello World 👋 It's Maksym <a href="https://www.linkedin.com/in/maksym-koralkov/">
 <img align="left" alt="Maksym Koralkov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
 
-<br />
+Hi, I'm Maksym Koralkov🙌, a Full-stack Developer from Ukraine.❤✌
 
-Hi,I'm Maksym Koralkov🙌, a Full-stack Developer from Ukraine.❤✌
-
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently Looking for a job.
 - 🌱 I’m currently learning Angular and Vue.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me about anything, I would love to answer them.✌
 
 **Languages and Tools:**
 
